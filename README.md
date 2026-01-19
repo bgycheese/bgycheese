@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently a student in Constructor University, working part-time in Virtuozzo.
+I am currently a student in Constructor University, working part-time at Virtuozzo.
 
 
 
