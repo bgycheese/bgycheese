@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am currently a student in Constructor University, working part-time in Virtuozzo. I want to improve my skills in programming significantly and be the best in my field.
+I am currently a student in Constructor University, working part-time in Virtuozzo.
+
 
 
 # 💻 Tech Stack:
